@@ -2,3 +2,4 @@
 node_modules/
 public/
 views/
+package-lock.json
