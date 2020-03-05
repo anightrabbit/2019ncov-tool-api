@@ -3,7 +3,7 @@
 
 Nodejs框架选取[express](http://expressjs.com/)搭建
 
-数据库选取Mongodb，在线网站[mlab.com](https://mlab.com/),提供免费500M空间自由使用。
+数据库选取Mongodb，在线网站[mlab.com](https://mlab.com/)，网站提供免费500M空间自由使用，测试好帮手。
 
 ## 备注
 
