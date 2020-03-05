@@ -5,7 +5,7 @@ Nodejs框架选取[express](http://expressjs.com/)搭建
 
 数据库选取Mongodb，在线网站[mlab.com](https://mlab.com/),提供免费500M空间自由使用。
 
-##备注
+## 备注
 
 1、数据来源[新型冠状病毒肺炎确诊患者同行程查询工具](https://2019ncov.nosugartech.com/)
 
