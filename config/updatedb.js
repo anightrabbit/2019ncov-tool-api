@@ -16,7 +16,7 @@ const getData = async (dbURL) => {
 	const originData = await fetchData(originURL);
 	console.log('originData--->', originData.data.data.length);
 	const dbData = await fetchData(dbURL);
-	console.log('dbData--->', dbData.data.data.length);
+	console.log('dbData--->', dbData.data.total);
 	if (!dbData.data.total) {
 		// 如果数据库没有数据，需要分批插入数据
 		chunkData(dbURL, originData.data.data);
