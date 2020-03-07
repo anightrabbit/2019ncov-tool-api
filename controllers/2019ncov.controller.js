@@ -98,6 +98,8 @@ const queryHandle = async (req, res) => {
               msg: '查询成功',
               data,
               total,
+              pageIndex,
+              pageSize
             },
             res,
             req,
